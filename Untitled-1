@@ -1,5 +1,0 @@
-  curl -X POST https://web-production-73b56.up.railway.app/admin/licenses/POS-RJV6-6ZE8-J38S-PRV6/timbres \
-     -H "x-api-key: c88b03ba9693c32b47f44e0e82fa46c887d0805c8838646c853a4d57cafa4ebe" \
-    -H "X-Admin-Key: jF8WNpJOUvvG5aPJs530YB4mFpf5B0Bq" \
-    -H "Content-Type: application/json" \
-    -d '{"cantidad": 50}'
